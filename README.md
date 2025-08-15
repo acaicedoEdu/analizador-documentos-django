@@ -15,8 +15,8 @@ Sigue estos pasos para levantar el proyecto en un entorno de desarrollo local.
 ### **2. Clonar el Repositorio**
 
 ```bash
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
-cd tu-repositorio/
+git clone https://github.com/acaicedoEdu/analizador-documentos-django.git
+cd analizador-documentos-django/
 ```
 
 ### **3. Configurar el Entorno Virtual**
